@@ -40,3 +40,5 @@ ___________________________________________
 ² [https://de.wikipedia.org/wiki/Der_ewige_Jude](https://de.wikipedia.org/wiki/Der_ewige_Jude)  
 ³ [https://de.wikipedia.org/wiki/Projektion_(Psychoanalyse)](https://de.wikipedia.org/wiki/Projektion_(Psychoanalyse))  
 ⁴ [https://www.heise.de/tp/features/Die-Verbrechen-des-Bill-Gates-4727474.html](https://www.heise.de/tp/features/Die-Verbrechen-des-Bill-Gates-4727474.html)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International Lizenz</a>.
