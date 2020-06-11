@@ -1,0 +1,20 @@
+---
+documentclass: extarticle
+fontsize: 11pt
+title-meta:
+- 'Wahnhafte Folienkartoffeln'
+author-meta:
+- 'Nathanael Meister'
+date-meta:
+- '1. Juni, 2020'
+keywords:
+- 'Entmenschlichungsbegriffe;Deskreditierung;Propaganda'
+header-includes:
+- \usepackage{fancyhdr}
+- \usepackage{graphicx}
+- \usepackage{hyperref}
+- \pagestyle{fancy}
+- \fancyfoot[CO,CE]{\href{https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de}{\includegraphics[scale=0.7]{CC.png}}}
+- \fancyfoot[LE,RO]{\thepage}
+output: pdf_document
+---
