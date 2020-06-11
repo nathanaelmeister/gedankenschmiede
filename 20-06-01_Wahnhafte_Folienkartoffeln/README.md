@@ -1,4 +1,4 @@
-![Aluhüte](./gimp/aluhüte.jpg)
+![Aluhüte](./aluhüte.jpg)
 
 # «Wahnhafte Folienkartoffeln»
 ## Eine kurze Abhandlung, wie durch Propagandatechniken versucht wird differenzierte Auseinandersetzungen zu unterbinden. 
