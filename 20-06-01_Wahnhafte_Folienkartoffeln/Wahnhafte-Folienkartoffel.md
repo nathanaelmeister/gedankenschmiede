@@ -35,4 +35,4 @@ Hiermit wird versucht, den in den *klassischen Medien* oft verwendeten Begriff d
 Er impliziert auch gleich einen Umgang, der den Lesern wohl weitestgehend nicht zu Bewusstsein kommt, aber ihrer oben dargestellten Hilflosigeit in der Auseinandersetzung einen emotionalen Blitzableiter zur Verfügung stellt. Die *Kartoffel*, die sinnbildlich für den *Deutschen* steht, wird in Alufolie verpackt und auf den Grill gelegt. Über Techniken nachzudenken, die zum Überprüfen der Gare verwendet werden, würde ich an dieser Stelle denen überlassen, die sich unreflektiert solcher Analogien bedienen. 
  
 
-**Nathanael Meister** *(1. Juni, 2020 - Revision: 0.5)*
+**Nathanael Meister** *(1. Juni, 2020 - Revision: 0.7)*
