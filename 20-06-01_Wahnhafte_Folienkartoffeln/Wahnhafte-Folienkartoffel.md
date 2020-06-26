@@ -1,7 +1,9 @@
-\includegraphics[scale=0.158]{./aluhüte.jpg}
+\begin{center}
+\includegraphics[width=1\textwidth]{./aluhüte.jpg}
+\end{center}
 
 # «Wahnhafte Folienkartoffeln»
-## Eine kurze Abhandlung, wie durch Propagandatechniken versucht wird differenzierte Auseinandersetzungen zu unterbinden. 
+## Eine kurze Abhandlung, wie durch Propagandatechniken versucht wird, differenzierte Auseinandersetzungen zu unterbinden.
 
 >> *»Wie Edward Bernays in seinem Buch Propaganda schon 1928 erklärte, kann 
 >> man das Denken der Öffentlichkeit ganz genauso dirigieren, wie eine 
@@ -11,9 +13,11 @@ Wenn sie aber aufwachen und die Realität des Informationskrieges erkennen,
 wird es viel schwieriger, sie zu lenken. Dann funktioniert die Regel von 
 Bernays nicht mehr[...].«* (Jens Wernicke)^[[https://www.rubikon.news/artikel/vorsicht-verschworungstheorie](https://www.rubikon.news/artikel/vorsicht-verschworungstheorie)]
 
-Wer sich etwas eingehender mit dem Thema Kriegspropaganda beschäftigt hat, dem sollte aus der Geschichte bekannt sein, wie sogenannte *Entmenschlichungsbegriffe* benutzt wurden, um anfänglich erst einmal Menschengruppen zu diskreditieren, dann gesellschaftlich auszugrenzen und später die Anwendung von Gewalt bis hin zur Tötung zu rechtfertigen.
+In kontroversen Zeiten, in denen es darum ginge Meinungsverschiedenheiten zu strittigen Themen gegeneinander zu halten, Dialoge zu führen und so durch Austausch und Annäherung einen Handlungsrahmen hervorzubringen, der sich vielleicht durch weniger totalitär anmutende Maßnahmen auszeichnen würde, könnte man das Vorkommen hitziger Debatten mit Tendenzen zur Polemik für durchaus vorstellbar halten.
 
-In Propagandafilmen des Naziregimes *(dem Propagandaminister Göbbels war das 
+Diese würde für den Rahmen einer *Talkshow* sicher einen gewissen Unterhaltungswert abgeben, allerdings wie im sogenannten *legendären Kanzlerstreit* zwischen *Willy Brandt* und *Helmut Kohl* nicht gerade zur Erhöhung des Niveaus beitragen und innerhalb jedes Diskurses, die Chance in Richtung einer Konsensfindung empfindlich verringern.^[[https://www.youtube.com/watch?v=ent18VEbNJs](https://www.youtube.com/watch?v=ent18VEbNJs)] Was ist aber, wenn Debatten überhaupt nicht erwünscht sind? Wenn Verhandlungen und Austausch zwischen unterschiedlichen Meinungen gar nicht stattfinden sollen, könnte man ja meinen, dass in diesem Szenario auch der Polemik das Spielfeld genommen wird. Das Gegenteilige ist allerdings der Fall. Die Polemik wird dann gegen ein Feindbild gerichtet, das kreiert wird und auf das inhaltlich wenn überhaupt, nur sehr rudimentär eingegangen wird. Findet eine solche Auseinandersetzung statt, geschieht dies in den meisten Fällen nur innerhalb bestimmter *»kognitiver Deutungsrahmen«* auch *Frames* genannt, die den Betreffenden in irgend einer Art und Weise herabsetzen.^[[http://www.elisabethwehling.com/books](http://www.elisabethwehling.com/books)]
+
+Wer sich etwas eingehender mit dem Thema Kriegspropaganda beschäftigt hat, dem sollte aus der Geschichte bekannt sein, wie sogenannte *Entmenschlichungsbegriffe* benutzt wurden, um anfänglich erst einmal Menschengruppen zu diskreditieren, dann gesellschaftlich auszugrenzen und später die Anwendung von Gewalt bis hin zur Tötung zu rechtfertigen. In Propagandafilmen des Naziregimes *(dem Propagandaminister Göbbels war das 
 oben genannte Buch von Bernays ja bekannt)*^[[https://en.wikipedia.org/wiki/Edward_Bernays#cite_note-79](https://en.wikipedia.org/wiki/Edward_Bernays#cite_note-79)] wurden Juden als *»gefährliche 
 Untermenschen*« bis hin zu *»Ratten«* bezeichnet (beispielsweise in dem Propagandafilm [*»Der ewige Jude«*](https://de.wikipedia.org/wiki/Der_ewige_Jude) von 1940)^[[https://de.wikipedia.org/wiki/Der_ewige_Jude](https://de.wikipedia.org/wiki/Der_ewige_Jude)]. Auch im Vietnamkrieg wurden Vietnamesen von den amerikanischen Agressoren zu »Termiten« degradiert.
 
@@ -22,15 +26,15 @@ Mit einem gewissen Grade an Bewusstwerdung dessen, was in diesen eklatanten Beis
 Natürlich ist die Wahl einer Begrifflichkeit wie «Folienkartoffel» noch nicht gleichzusetzen mit der oben dargestellten Propaganda und den daraus resultierenden Konsequenzen. **Mir geht es in erster Linie darum, vor einer ähnlichen Systematik zu warnen.** Auf die Frage, wie es dazu kommt, dass selbst jene, denen eine differenzierte Auseinandersetzung zuzutrauen wäre, sich solch einfältiger Techniken bedienen, komme ich zu folgendem Ergebnis. Ich bin davon überzeugt, dass dies in den meisten Fällen völlig unbewusst geschieht und Ausdruck eines Zustandes ist, bei dem das Gedankenleben von einer aufgebauschten Emotionalität zurückgedrängt, bzw. übertönt wird.
 
 Es findet somit kaum noch eine gedankliche Auseinandersetzung mit dem Thema statt, dem man mit Hilfe des Hinzuziehens von Tatsachen irgendwie begegnen könnte. Gleichzeitig entsteht aber ein Feindbild, das mit einer abwertenden Begrifflichkeit stigmatisiert wird. Dies gleicht viel eher einem Wahngebäude, dem man inhaltlich nichts entgegnen kann, weil es sich in erster Linie um eine Konsolidierung unreflektierter Emotionen handelt, die in solchen Begrifflichkeiten zusammengefasst werden.
-
 Zur eigenen Absicherung wird dann die eigentlich nötige Selbstdiagnose des *Wahnhaften*, der abgewerteten Gegnerschaft unterstellt. Auch hier werden keine Beispiele genannt, mit denen man sich durch die Beschreibung von Begebenheiten oder Äußerungen entsprechender Personen zumindest auf ein objektives Minimum bezüglich irgendwelcher Tatsachen einigen könnte.
 
 Ich sehe dadurch meine These untermauert, dass es sich bei der Wahndiagnose 
 eigentlich um eine nach außen projizierte Selbstwahrnehmung handelt.^[[https://de.wikipedia.org/wiki/Projektion_(Psychoanalyse)](https://de.wikipedia.org/wiki/Projektion_(Psychoanalyse))] Diese wird durch Umkehrung, das heißt durch das Pathologisieren der anderen Meinung auf niederster Ebene, zur Technik der Diskreditierung und Diskussionsverweigerung. Dadurch wird aber eigentlich nur die eigene Hilflosigkeit gegenüber einem bestimmten Themenkomplex zum Ausdruck gebracht.
 
-Die Liste an Beispielen diskreditierender Artikel, die auf inhaltliche Auseinandersetzung weitestgehend verzichten, dürfte sehr lang sein. Ein exzellenter Beispielartikel, zu dem sich eine gesonderte Auseinandersetzung mit dem Thema *Deskreditierungstechniken* lohnen würde, wurde auf heise.de veröffentlicht. Dieser zeichnet sich durch eine besondere Kreativität in dieser Richtung und die Wortschöpfung, bzw. Verwendung des Wortes *»Folienkartoffel«* aus.^[[https://www.heise.de/tp/features/Die-Verbrechen-des-Bill-Gates-4727474.html](https://www.heise.de/tp/features/Die-Verbrechen-des-Bill-Gates-4727474.html)]
+Die Liste an Beispielen diskreditierender Artikel, die auf inhaltliche Auseinandersetzung weitestgehend verzichten, dürfte sehr lang sein.
+Ein exzellenter Beispielartikel, zu dem sich eine gesonderte Auseinandersetzung mit dem Thema *Deskreditierungstechniken* lohnen würde, wurde auf [www.heise.de](https://www.heise.de) mit dem Titel [*»Die Verbrechen des Bill Gates«*](https://www.heise.de/tp/features/Die-Verbrechen-des-Bill-Gates-4727474.html) veröffentlicht.^[[https://www.heise.de/tp/features/Die-Verbrechen-des-Bill-Gates-4727474.html](https://www.heise.de/tp/features/Die-Verbrechen-des-Bill-Gates-4727474.html)] Dieser zeichnet sich durch eine besondere Kreativität in dieser Richtung und die Wortschöpfung, bzw. Verwendung des Wortes *»Folienkartoffel«* aus.
 Hiermit wird versucht, den in den *klassischen Medien* oft verwendeten Begriff der sogenannten *»Aluhüte«* an Polemik zu überbieten, was ihm durchaus auch gelingt.
 Er impliziert auch gleich einen Umgang, der den Lesern wohl weitestgehend nicht zu Bewusstsein kommt, aber ihrer oben dargestellten Hilflosigeit in der Auseinandersetzung einen emotionalen Blitzableiter zur Verfügung stellt. Die *Kartoffel*, die sinnbildlich für den *Deutschen* steht, wird in Alufolie verpackt und auf den Grill gelegt. Über Techniken nachzudenken, die zum Überprüfen der Gare verwendet werden, würde ich an dieser Stelle denen überlassen, die sich unreflektiert solcher Analogien bedienen. 
  
 
-**Nathanael Meister** *(1. Juni, 2020)*
+**Nathanael Meister** *(1. Juni, 2020 - Revision: 0.5)*
